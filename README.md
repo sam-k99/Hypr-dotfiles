@@ -15,13 +15,7 @@
 
 </div>
 
----
 
-## 📸 Preview
-
-> *Add your screenshots here*
-
----
 
 ## 🖥️ System Info
 
