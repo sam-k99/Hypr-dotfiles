@@ -1,7 +1,7 @@
 # Dotfiles
 
 
-## ✨ Features
+## Features
 
 -  **Hyprland** — fluid animations with custom bezier curves, rounded corners, blur and transparency
 -  **Catppuccin Mocha** — consistent color theme across everything
