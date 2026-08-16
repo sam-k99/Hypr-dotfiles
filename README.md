@@ -27,7 +27,7 @@ cd dotfiles
 
 
 
-## 📁 File Structure
+## File Structure
 
 ```
 dotfiles/
