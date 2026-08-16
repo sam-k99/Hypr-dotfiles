@@ -8,11 +8,8 @@
 -  **Liquid Glass Waybar** — macOS Tahoe inspired floating pills with water-on-glass effect
 -  **Rofi** — clean dark app launcher matching the theme
 -  **swww** — smooth wallpaper transitions
--  **Battery optimized** — charge limit, VRR disabled for stability
--  **Dual GPU** — AMD iGPU for compositor, GTX 1650 available via `prime-run`
 -  **Clipboard manager** — cliphist with rofi picker
 -  **Dunst** — minimal notification daemon
--  **Dual boot** — Windows 11 + Arch via systemd-boot
 -  **144hz** — properly configured for smooth experience
 
 
